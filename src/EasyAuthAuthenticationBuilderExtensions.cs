@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication;
 using System;
 
 namespace MaximeRouiller.Azure.AppService.EasyAuth
@@ -11,6 +11,20 @@ namespace MaximeRouiller.Azure.AppService.EasyAuth
                 builder.AddScheme<EasyAuthAuthenticationOptions, EasyAuthAuthenticationHandler>(
                     "EasyAuth",
                     "EasyAuth",
+                    configure)
+        .AddScheme<EasyAuthAuthenticationOptions, EasyAuthAuthenticationHandler>(
+                    "ArmToken",
+                    "ArmToken",
+                    configure)
+
+
+        .AddScheme<EasyAuthAuthenticationOptions, EasyAuthAuthenticationHandler>(
+                    "WebJobsAuthLevel",
+                    "WebJobsAuthLevel",
+                    configure)
+        .AddScheme<EasyAuthAuthenticationOptions, EasyAuthAuthenticationHandler>(
+                    "Bearer",
+                    "Bearer",
                     configure);
     }
 }
