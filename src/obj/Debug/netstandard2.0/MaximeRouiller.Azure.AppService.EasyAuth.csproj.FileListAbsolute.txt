@@ -1,0 +1,9 @@
+C:\Users\moyouse\Source\Repos\moyouse\MaximeRouiller.Azure.AppService.EasyAuth\src\bin\Debug\netstandard2.0\MaximeRouiller.Azure.AppService.EasyAuth.deps.json
+C:\Users\moyouse\Source\Repos\moyouse\MaximeRouiller.Azure.AppService.EasyAuth\src\bin\Debug\netstandard2.0\MaximeRouiller.Azure.AppService.EasyAuth.dll
+C:\Users\moyouse\Source\Repos\moyouse\MaximeRouiller.Azure.AppService.EasyAuth\src\bin\Debug\netstandard2.0\MaximeRouiller.Azure.AppService.EasyAuth.pdb
+C:\Users\moyouse\Source\Repos\moyouse\MaximeRouiller.Azure.AppService.EasyAuth\src\obj\Debug\netstandard2.0\MaximeRouiller.Azure.AppService.EasyAuth.csprojAssemblyReference.cache
+C:\Users\moyouse\Source\Repos\moyouse\MaximeRouiller.Azure.AppService.EasyAuth\src\obj\Debug\netstandard2.0\MaximeRouiller.Azure.AppService.EasyAuth.AssemblyInfoInputs.cache
+C:\Users\moyouse\Source\Repos\moyouse\MaximeRouiller.Azure.AppService.EasyAuth\src\obj\Debug\netstandard2.0\MaximeRouiller.Azure.AppService.EasyAuth.AssemblyInfo.cs
+C:\Users\moyouse\Source\Repos\moyouse\MaximeRouiller.Azure.AppService.EasyAuth\src\obj\Debug\netstandard2.0\MaximeRouiller.Azure.AppService.EasyAuth.csproj.CoreCompileInputs.cache
+C:\Users\moyouse\Source\Repos\moyouse\MaximeRouiller.Azure.AppService.EasyAuth\src\obj\Debug\netstandard2.0\MaximeRouiller.Azure.AppService.EasyAuth.dll
+C:\Users\moyouse\Source\Repos\moyouse\MaximeRouiller.Azure.AppService.EasyAuth\src\obj\Debug\netstandard2.0\MaximeRouiller.Azure.AppService.EasyAuth.pdb

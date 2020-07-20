@@ -16,11 +16,7 @@ namespace MaximeRouiller.Azure.AppService.EasyAuth
                     "ArmToken",
                     "ArmToken",
                     configure)
-
- 
-
-
-        .AddScheme<EasyAuthAuthenticationOptions, EasyAuthAuthenticationHandler>(
+                    .AddScheme<EasyAuthAuthenticationOptions, EasyAuthAuthenticationHandler>(
                     "WebJobsAuthLevel",
                     "WebJobsAuthLevel",
                     configure)
